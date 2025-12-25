@@ -1,3 +1,5 @@
+<img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/c802b56c-2a72-4d8d-9e61-94de18cafd5f" />
+
 Markdown
 
 # 🚀 FEA-Net: Real-Time Physics Surrogate Pipeline
