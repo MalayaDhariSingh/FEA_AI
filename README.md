@@ -1,5 +1,7 @@
 <img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/c802b56c-2a72-4d8d-9e61-94de18cafd5f" />
 
+https://www.linkedin.com/posts/malaya-dhari-singh-888490395_from-10-seconds-to-1-millisecond-accelerating-activity-7409984563998953474-M9_e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGERnegB1fHyhvLvuQDIzP-3asKbDMbHG6Q
+
 Markdown
 
 # 🚀 FEA-Net: Real-Time Physics Surrogate Pipeline
